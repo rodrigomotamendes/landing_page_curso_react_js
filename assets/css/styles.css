@@ -95,12 +95,19 @@
   gap: var(--gap);
 }
 
+.form-grid legend {
+  font-style: italic;
+  font-size: 1.6rem;
+  margin-bottom: 3rem;
+}
+
 .form-group {
   flex: 1 1 320px;
 }
 
 .form-group label {
   display: block;
+  margin-bottom: 1rem;
 }
 
 .form-group input,
@@ -125,4 +132,26 @@
 .form-group button:hover {
   background: var(--white-color);
   color: var(--primary-color);
+}
+
+.form-group::placeholder {
+  color: var(--light-gray-color);
+}
+
+.footer {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.footer a {
+  color: var(--primary-color);
+}
+
+.heart {
+  color: var(--secondary-color);
+}
+
+.footer p {
+  margin: 0;
+  padding: 3rem;
 }
