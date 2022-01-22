@@ -1,4 +1,4 @@
-<h1 align="center"> Landing Page com HTML5 e CSS3 - Curso de React.Js + Next.Js do Luiz Otávio Miranda </h1>
+<h1 align="center"> Landing Page com HTML5 e CSS3</h1>
 
 <p align="center">
  <img src="https://github.com/rodrigomotamendes/landing_page_curso_react_js/blob/main/assets/img/udemy-logo.png" width="360" alt="udemy logo">
